@@ -17,3 +17,22 @@ concerning realistic prediction, prediction performance, and prediction "interpr
 dataset, the model can predict realistic and interpretable trajectories with better than state-of-the-art accuracy.
 </div>
 --------
+ ### Get the data
+
+[Synthetic data](https://drive.google.com/drive/folders/1kWjtwQTeXh5ngzNeDUR1MVZeZoRIdmqO?usp=share_link).
+
+Download the data and place them into the "data" folder.
+
+### Citing
+ If you use our code,please cite our work
+ 
+ ```
+@inproceedings{hossain22sfmgnet,
+ author = {Sakif Hossain and Fatema T. Johora and Jörg P. Müller and Sven Hartmann and Andreas Reinhardt},
+ booktitle = {Proceedings of the AAAI Spring Symposium on Machine Learning and Knowledge Engineering for Hybrid Intelligence (AAAI-MAKE)},
+ pages = {1--16},
+ title = {{SFMGNet: A Physics-based Neural Network To Predict Pedestrian Trajectories}},
+ url = {https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper14.pdf},
+ year = {2022}
+}
+ ```
