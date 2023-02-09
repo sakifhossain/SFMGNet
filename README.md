@@ -17,9 +17,11 @@ concerning realistic prediction, prediction performance, and prediction "interpr
 dataset, the model can predict realistic and interpretable trajectories with better than state-of-the-art accuracy.
 </div>
 --------
- ### Get the data
+ 
+ 
+### Get the data
 
-[Synthetic data](https://drive.google.com/drive/folders/1kWjtwQTeXh5ngzNeDUR1MVZeZoRIdmqO?usp=share_link).
+[Synthetic data](https://drive.google.com/drive/folders/1kWjtwQTeXh5ngzNeDUR1MVZeZoRIdmqO?usp=share_link)
 
 Download the data and place them into the "data" folder.
 
