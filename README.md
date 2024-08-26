@@ -16,7 +16,6 @@ trajectories considering its interaction with static obstacles, other pedestrian
 concerning realistic prediction, prediction performance, and prediction "interpretability". Initial results suggest that, even when solely trained on a synthetic 
 dataset, the model can predict realistic and interpretable trajectories with better than state-of-the-art accuracy.
 </div>
---------
  
  
 ### Get the data
@@ -26,7 +25,7 @@ dataset, the model can predict realistic and interpretable trajectories with bet
 Download the data and place them into the "data" folder.
 
 ### Citing
- If you use our code,please cite our work
+ If you use our code, please cite our work
  
  ```
 @inproceedings{hossain22sfmgnet,
